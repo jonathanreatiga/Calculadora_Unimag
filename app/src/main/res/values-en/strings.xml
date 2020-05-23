@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="TituloMainActivity">Calculator</string>
+    <string name="numeroUno">Number One</string>
+    <string name="numeroDos">Number Two</string>
+    <string name="btnAccion">Action</string>
+    <string name="btnLimpiar">Clear</string>
+</resources>

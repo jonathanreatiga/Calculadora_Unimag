@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Calculadora</string>
+    <string name="TituloMainActivity">Calculadora</string>
+    <string name="numeroUno">Numero Uno</string>
+    <string name="numeroDos">Numero Dos</string>
+    <string name="btnAccion">Acción</string>
+    <string name="btnLimpiar">Limpiar</string>
 </resources>
