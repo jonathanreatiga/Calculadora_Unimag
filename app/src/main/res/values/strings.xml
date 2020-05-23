@@ -1,8 +1,26 @@
 <resources>
     <string name="app_name">Calculadora</string>
     <string name="TituloMainActivity">Calculadora</string>
+    
     <string name="numeroUno">Numero Uno</string>
     <string name="numeroDos">Numero Dos</string>
+    
     <string name="btnAccion">Acción</string>
     <string name="btnLimpiar">Limpiar</string>
+
+    <string name="errorCampoNumeroUno">Campo Uno Vacío</string>
+    <string name="errorCampoNumeroDos">Campo Dos Vacío</string>
+    <string name="errorDividirNumeroDos">No puede dividir por cero</string>
+
+    <string name="opcionSumar">Sumar</string>
+    <string name="opcionRestar">Restar</string>
+    <string name="opcionMultiplicar">Multiplicar</string>
+    <string name="opcionDividir">Dividir</string>
+    <string-array name="operaciones">
+        <item>@string/opcionSumar</item>
+        <item>@string/opcionRestar</item>
+        <item>@string/opcionMultiplicar</item>
+        <item>@string/opcionDividir</item>
+    </string-array>
+    
 </resources>

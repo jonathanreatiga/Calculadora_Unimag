@@ -6,4 +6,11 @@
     <string name="numeroDos">Number Two</string>
     <string name="btnAccion">Action</string>
     <string name="btnLimpiar">Clear</string>
+    <string name="opcionSumar">Add</string>
+    <string name="opcionRestar">Subtract</string>
+    <string name="opcionMultiplicar">Multiply</string>
+    <string name="opcionDividir">Divide</string>
+    <string name="errorCampoNumeroUno">Empty Field One</string>
+    <string name="errorCampoNumeroDos">" Empty Field Two"</string>
+    <string name="errorDividirNumeroDos">Can\'t divide by zero</string>
 </resources>
